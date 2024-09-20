@@ -16,7 +16,8 @@ if __name__ == "__main__":
         "field_props": (12, 10, [(1,2),(2,4),(4,3),(5,1),(8,6),(9,6)]),
         "amount_of_generations": 100,
         "selection_function": "tournament",
-        "crossover_function": "single_point_crossover"
+        "crossover_function": "single_point_crossover",
+        "offspring_factor": 3/4
     }
 
     test_runs = 100

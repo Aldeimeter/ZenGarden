@@ -1,0 +1,195 @@
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0.01,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.125,
+ population_size: 100,
+ selection_function: roulette
+Found 7 solutions in 100 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: roulette
+Found 3 solutions in 100 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: tournament
+Found 14 solutions in 100 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: tournament
+Found 16 solutions in 100 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: tournament
+Found 20 solutions in 100 test runs
+Test runs: 1000
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: tournament
+Found 178 solutions in 1000 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: tournament
+Found 97 solutions in 100 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: tournament
+Found 96 solutions in 100 test runs
+Test runs: 1000
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: tournament
+Found 951 solutions in 1000 test runs
+Test runs: 100
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: roulette
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: roulette
+Found 0 solutions in 10 test runs
+0.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.1,
+ population_size: 100,
+ selection_function: roulette
+Found 1 solutions in 10 test runs
+10.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.05,
+ population_size: 100,
+ selection_function: roulette
+Found 2 solutions in 100 test runs
+2.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: rank_based
+Found 14 solutions in 100 test runs
+14.000000000000002 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.01,
+ population_size: 100,
+ selection_function: rank_based
+Found 95 solutions in 100 test runs
+95.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.02,
+ population_size: 100,
+ selection_function: rank_based
+Found 97 solutions in 100 test runs
+97.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: single_point_crossover,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0.03,
+ population_size: 100,
+ selection_function: rank_based
+Found 91 solutions in 100 test runs
+91.0 % in 100 generations and 100 population_size
+------------END------------
+------------BEGIN------------
+Preferences:
+ amount_of_generations: 100,
+ crossover_function: uniform,
+ elitism_rate: 0,
+ field_props: (12, 10, [(1, 2), (2, 4), (4, 3), (5, 1), (8, 6), (9, 6)]),
+ mutation_rate: 0,
+ population_size: 100,
+ selection_function: rank_based
+Found 4 solutions in 100 test runs
+4.0 % in 100 generations and 100 population_size
+------------END------------
